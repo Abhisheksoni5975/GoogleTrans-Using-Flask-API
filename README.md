@@ -57,7 +57,8 @@ pip install googletrans
 ---
 
 ## License
-###Googletrans is licensed under the MIT License. The terms are as follows:
+
+Googletrans is licensed under the MIT License. The terms are as follows:
 
 The MIT License (MIT)
 
@@ -80,6 +81,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
 [Back To The Top](#read-me-template)
 
 ---
