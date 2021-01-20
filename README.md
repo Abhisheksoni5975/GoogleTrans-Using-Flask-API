@@ -42,14 +42,6 @@ Just enter the Text in URL
 pip install Flask
 pip install googletrans
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
 
 ## References
 [Back To The Top](#read-me-template)
