@@ -1,8 +1,9 @@
-from flask import Flask,jsonify
-from googletrans import Translator
+#importing required method from library 
+from flask import Flask,jsonify  #jsoniny is for json data
+from googletrans import Translator # language translation library of google
 import googletrans
 
-app = Flask(__name__)
+app = Flask(__name__)  
 
 @app.route('/<name>/<ds>')
 def hello_name(name,ds):
